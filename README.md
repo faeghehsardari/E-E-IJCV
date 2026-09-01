@@ -78,6 +78,6 @@ Please also consider citing the earlier PAT paper:
 
 ## Acknowledgments
 
-This implementation builds on ideas and utilities from [MS-TCT](https://github.com/dairui01/MS-TCT) and uses I3D features extracted with [pytorch-i3d](https://github.com/piergiaj/pytorch-i3d). We thank their authors.
+This implementation builds on utilities from [MS-TCT](https://github.com/dairui01/MS-TCT) and uses I3D features extracted with [pytorch-i3d](https://github.com/piergiaj/pytorch-i3d). We thank their authors.
 
 This research was supported by UKRI EPSRC Platform Grant EP/P022529/1 and the EPSRC BBC Prosperity Partnership AI4ME: Future Personalised Object-Based Media Experiences Delivered at Scale Anywhere, EP/V038087/1.
