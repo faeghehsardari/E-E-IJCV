@@ -12,7 +12,7 @@ Official PyTorch implementation of **An Effective-Efficient Approach for Dense M
 <p align="center">
   <img src="Proposed-method.png" alt="Overview of the proposed EE-PAT architecture" width="70%">
 </p>
-<p align="center"><em>Overview of the proposed EE-PAT architecture.</em></p>
+<p align="center"><em></em></p>
 
 
 
